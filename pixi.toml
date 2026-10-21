@@ -1,0 +1,14 @@
+[workspace]
+channels = ["conda-forge"]
+name = "so101-ball-in-cup"
+platforms = ["linux-aarch64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = ">=3.12,<3.13"
+pip = ">=26.2.1,<27"
+
+[activation.env]
+PYTHONNOUSERSITE = "1"

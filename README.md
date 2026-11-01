@@ -105,4 +105,4 @@ python train_ball_predictor.py --data flight_dataset --out ball_ai_result_retrai
 
 ## 7. 動画
 
-[SO-101 Ball-in-Cup 実験動画](https://youtu.be/NdwcPOmxEe4)
+[SO-101 Ball-in-Cup 実験動画](https://youtu.be/UQ5bwCf_DF0)

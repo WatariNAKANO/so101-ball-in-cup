@@ -1,0 +1,15 @@
+{
+  "reference_x": 323.4,
+  "reference_y": 396.6,
+  "roi": [
+    260,
+    330,
+    390,
+    465
+  ],
+  "image_size": [
+    640,
+    480
+  ],
+  "calibration_method": "verified_static_detection"
+}

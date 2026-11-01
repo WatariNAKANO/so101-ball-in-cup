@@ -1,0 +1,5 @@
+Recorded frames: 93
+Duration: 3.684 s
+Measured FPS: 24.97
+Replay marker offset: 0.000 s
+Camera error: None

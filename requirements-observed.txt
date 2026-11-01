@@ -1,0 +1,8 @@
+# Observed environment: ASUS GX10, Ubuntu 24.04, Python 3.12
+# Version record; not a complete environment installation recipe.
+numpy==2.2.6
+opencv-python-headless==4.13.0.92
+torch==2.11.0
+matplotlib==3.11.2
+feetech-servo-sdk==1.0.0
+lerobot==0.6.1

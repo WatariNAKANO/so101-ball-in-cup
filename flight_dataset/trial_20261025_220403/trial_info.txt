@@ -1,0 +1,6 @@
+trial=20261025_220403
+outcome=success
+trajectory=ball_throw_D_wrist25_minus.json
+camera=USB_640x480_25fps
+ready_sigma_limit_px=4.0
+ready_center_limit_px=10.0
